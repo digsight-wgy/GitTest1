@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity
     static
     {
         System.loadLibrary("native-lib");
+        //just a test
     }
 
     @Override
